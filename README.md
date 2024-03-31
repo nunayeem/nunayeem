@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nizam Uddin Nayeem
+#- 👋 Hi, I’m Nizam Uddin Nayeem
 - 🌱 I’m currently learning Backend & Android Mobile Application Development
 
 
